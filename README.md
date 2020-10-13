@@ -1,7 +1,7 @@
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
 <h3 align="center">A Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatsubandi&label=Profile%20views&color=1abc9c&style=flat-square" alt="rahmatsubandi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatsubandi&label=Profile%20views&color=1abc9c&style=flat" alt="rahmatsubandi" /> </p>
 
 - 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS, PHP, HTML5, CSS3, etc**
 
-- 📫 How to reach me **rahmatsubandi@rhmtin.com**
+- 📫 How to reach me **rahmatsuabndi@rhmtin.com**
 
 - 📄 Know about my experiences [rhmtin.com](rhmtin.com)
 
