@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS, PHP, HTML5, CSS3, etc**
 
-- 📫 How to reach me **rahmatsuabndi@rhmtin.com**
+- 📫 How to reach me **rahmatsubandi@rhmtin.com**
 
 - 📄 Know about my experiences [rhmtin.com](rhmtin.com)
 
