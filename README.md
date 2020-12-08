@@ -9,7 +9,7 @@
   <br><br>
   <samp>
 I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
-     <br><br>Contact me on <a href="https://t.me/rhmtinn">Telegram</a> or <a href="mailto:rhmtin12@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://t.me/rhmtinn" target="_blank">Telegram</a> or <a href="mailto:rhmtin12@gmail.com" target="_blank">Send an Email</a>
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=rahmatsubandi.rahmatsubandi" alt="Visitors Counter">
@@ -19,27 +19,27 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 <h3 align="center">Connect with me 😃</h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/subandi12">
+  <a href="https://www.facebook.com/subandi12" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/fb.png" alt="Facebook link to profile" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://instagram.com/rhmtin/">
+  <a href="https://instagram.com/rhmtin/" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ig.png" alt="Instagram link to profile" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/rahmat-subandi-7238391b4">
+  <a href="https://linkedin.com/in/rahmat-subandi-7238391b4" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/linked.png" alt="LinkedIn link to profile" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://linktr.ee/rahmatsubandi">
+  <a href="https://linktr.ee/rahmatsubandi" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/linnktree.png" alt="Linktree link to profile" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://medium.com/@rhmtin12">
+  <a href="https://medium.com/@rhmtin12" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://rhmtin.com">
+  <a href="https://rhmtin.com" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/www.jpg" alt="WWW link to profile" />
   </a>
 </p>
