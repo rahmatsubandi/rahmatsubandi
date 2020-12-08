@@ -1,33 +1,27 @@
-## Hi there, I'm Rahmat Subandi 👋🏼 💻
-
-You have finally discovered my GitHub profile.
+### Hi Github 👋
 
 <p align="center">
-<img height="150" style="center" src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/penguin.gif" alt="Funny pixel cat gif moving its tail." />
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Surjith. A freelance Web Designer & Developer from Kerala, India. I design and develop websites, landing pages and applications for startups and enterprises. 
+     <br><br>Contact me on <a href="https://twitter.com/surjithctly">Twitter</a> or <a href="mailto&#58;m&#97;i&#108;&#64;su&#114;&#106;&#105;&#116;&#37;68%63tly&#46;i%6E">Send an Email</a>
+  </samp>
+<br><br>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=surjithctly.surjithctly" alt="Visitors Counter">
 </p>
 
-I'm a software developer who is passionate about creating open source projects, creating technology that both people and penguins can enjoy 🐧. Some of the technologies I like to work with include JavaScript, HTML5, CSS3, PHP, Python, and other frameworks like MERN Stack, Laravel, Codeigniter.
 
-Reading is to know what was in the past, while writing is to tell in the future.
+**surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Happy coding, writing, and reading! 👨🏻‍💻
+Here are some ideas to get you started:
 
-<h3 align="center">Find me around the web 🌎</h3>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-<p align="center">
-  <a href="https://dev.to/miguelbogota">
-    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/dev.png" alt="Dev.to link to profile" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://instagram.com/migue_bogota/">
-    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/instagram.jpg" alt="Instagram link to profile" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/miguelbogota">
-    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/linkedin.png" alt="LinkedIn link to profile" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://github.com/miguelbogota">
-    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/github.png" alt="GitHub link to profile" />
-  </a>
-</p>
