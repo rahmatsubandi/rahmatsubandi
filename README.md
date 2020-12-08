@@ -2,7 +2,7 @@
 
 You have finally discovered my GitHub profile.
 
-<img height="150" src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/penguin.gif" alt="Funny pixel cat gif moving its tail." />
+<img height="150" style="center" src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/penguin.gif" alt="Funny pixel cat gif moving its tail." />
 
 Saya adalah pengembang perangkat lunak yang bersemangat membuat proyek sumber terbuka, menciptakan teknologi yang dapat dinikmati orang dan penguin 🐧. Beberapa teknologi yang saya suka bekerja dengan termasuk JavaScript, HTML5, CSS3, PHP, Python, dan kerangka kerja lainnya seperti MERN Stack, Laravel, Codeigniter.
 
