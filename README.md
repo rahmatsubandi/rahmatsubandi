@@ -29,9 +29,13 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 
   <a href="https://linktr.ee/rahmatsubandi">
     <img height="30" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/linnktree.png" alt="Linktree link to profile" />
-  </a>
+  </a>&nbsp;&nbsp;
   
   <a href="https://medium.com/@rhmtin12">
     <img height="30" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/penguin.gif" width="250px">
+ </p>
