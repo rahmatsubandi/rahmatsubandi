@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [medium.com/@rhmtin12](medium.com/@rhmtin12)
 
-- 💬 Ask me about **JS, PHP, HTML5, CSS3, etc**
+- 💬 Ask me about **JS, PHP, HTML5, CSS3**
 
 - 📫 How to reach me **rahmatsubandi@rhmtin.com**
 
