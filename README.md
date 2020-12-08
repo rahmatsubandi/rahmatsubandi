@@ -36,7 +36,7 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
   </a>&nbsp;&nbsp;
   
   <a href="https://medium.com/@rhmtin12">
-    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.jpg" alt="Medium link to profile" />
+    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>&nbsp;&nbsp;
   
   <a href="https://rhmtin.com">
@@ -45,6 +45,6 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmatsubandi&show_icons=true" alt="rahmatsubandi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmatsubandi&show_icons=true" alt="rahmatsubandi" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatsubandi&layout=compact" alt="top lang" />
 </p>
