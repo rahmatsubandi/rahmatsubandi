@@ -4,7 +4,7 @@ You have finally discovered my GitHub profile.
 
 <img height="150" style="center" src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/penguin.gif" alt="Funny pixel cat gif moving its tail." />
 
-Saya adalah pengembang perangkat lunak yang bersemangat membuat proyek sumber terbuka, menciptakan teknologi yang dapat dinikmati orang dan penguin 🐧. Beberapa teknologi yang saya suka bekerja dengan termasuk JavaScript, HTML5, CSS3, PHP, Python, dan kerangka kerja lainnya seperti MERN Stack, Laravel, Codeigniter.
+I'm a software developer who is passionate about creating open source projects, creating technology that both people and penguins can enjoy 🐧. Some of the technologies I like to work with include JavaScript, HTML5, CSS3, PHP, Python, and other frameworks like MERN Stack, Laravel, Codeigniter.
 
 Reading is to know what was in the past, while writing is to tell in the future.
 
