@@ -13,20 +13,3 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 </p>
 
 
-- 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
-
-- 🌱 I’m currently learning **MERN Stack And Laravel**
-
-- 👯 I'm currently working in a team with [owltechmedia](https://owltechmedia.com/)
-
-- 👨‍💻 All of my projects are available at [Wall Magazine](wall-magazine.netlify.app)
-
-- 📝 I regulary write articles on [medium.com/@rhmtin12](medium.com/@rhmtin12)
-
-- 💬 Ask me about **JS, PHP, HTML5, CSS3**
-
-- 📫 How to reach me **rahmatsubandi@rhmtin.com**
-
-- 📄 Know about my experiences [rhmtin.com](rhmtin.com)
-
-- ⚡ Fun fact **Make coffee the inspiration for every beautiful code.**
