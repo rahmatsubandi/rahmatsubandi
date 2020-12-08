@@ -37,5 +37,5 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif" width="50%">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif" width="500px">
  </p>
