@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack And Laravel**
 
 - 👯 I'm currently working in a team with [owltechmedia](https://owltechmedia.com/)
 
