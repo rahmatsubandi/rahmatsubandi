@@ -9,14 +9,24 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=rahmatsubandi.rahmatsubandi" alt="Visitors Counter">
+    <img src="https://komarev.com/ghpvc/?username=rahmatsubandi&label=Profile%20views&color=1abc9c&style=flat" alt="rahmatsubandi" />
 </p>
 
 
-Here are some ideas to get you started:
+- 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
 
-- 🔭 I’m currently working on Freelance
-- 🌱 I’m currently learning MERN Stack and Laravel
-- 👯 I’m looking to collaborate on Owltechmedia
-- 💬 Ask me about HTML5, CSS3, JavaScript, and PHP
-- 📫 How to reach me: rhmtin12@gmail.com
-- ⚡ Fun fact: From coffee to change a beautiful line of code
+- 🌱 I’m currently learning **MERN Stack And Laravel**
+
+- 👯 I'm currently working in a team with [owltechmedia](https://owltechmedia.com/)
+
+- 👨‍💻 All of my projects are available at [Wall Magazine](wall-magazine.netlify.app)
+
+- 📝 I regulary write articles on [medium.com/@rhmtin12](medium.com/@rhmtin12)
+
+- 💬 Ask me about **JS, PHP, HTML5, CSS3**
+
+- 📫 How to reach me **rahmatsubandi@rhmtin.com**
+
+- 📄 Know about my experiences [rhmtin.com](rhmtin.com)
+
+- ⚡ Fun fact **Make coffee the inspiration for every beautiful code.**
