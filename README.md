@@ -2,7 +2,9 @@
 
 You have finally discovered my GitHub profile.
 
+<p align="center">
 <img height="150" style="center" src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/penguin.gif" alt="Funny pixel cat gif moving its tail." />
+</p>
 
 I'm a software developer who is passionate about creating open source projects, creating technology that both people and penguins can enjoy 🐧. Some of the technologies I like to work with include JavaScript, HTML5, CSS3, PHP, Python, and other frameworks like MERN Stack, Laravel, Codeigniter.
 
