@@ -1,7 +1,7 @@
 ### Hi Github 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/penguin.gif" width="27px">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/penguin.gif" width="40px">
   <br><br>
   <samp>
 I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
@@ -13,7 +13,7 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 </p>
 
 
-- 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
+- 👨🏻‍🎓 I'm currently college students on Mercu Buana University
 
 - 🌱 I’m currently learning **MERN Stack And Laravel**
 
