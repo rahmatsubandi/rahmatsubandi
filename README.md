@@ -5,7 +5,7 @@
   <br><br>
   <samp>
 I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
-     <br><br>Contact me on <a href="https://instagram.com/rhmtin">Instagram</a> or <a href="mailto:rhmtin12@gmail.com">Send an Email
+     <br><br>Contact me on <a href="https://instagram.com/rhmtin">Instagram</a> or <a href="mailto:rhmtin12@gmail.com">Send an Email</a>
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=rahmatsubandi.rahmatsubandi" alt="Visitors Counter">
@@ -13,7 +13,7 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 </p>
 
 
-- 👨🏻‍🎓 I'm currently college students on Mercu Buana University
+- 👨🏻‍🎓 I'm currently college students on [Mercu Buana University](https://www.mercubuana.ac.id/en)
 
 - 🌱 I’m currently learning **MERN Stack And Laravel**
 
