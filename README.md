@@ -46,5 +46,5 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmatsubandi&show_icons=true&theme=gotham" alt="rahmatsubandi" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatsubandi&layout=compact" alt="top lang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatsubandi&layout=compact&theme=gotham" alt="top lang" />
 </p>
