@@ -39,7 +39,7 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://rhmtin.com" target="_blank">
+  <a href="https://rahmatsubandi.me" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/www.jpg" alt="WWW link to profile" />
   </a>
 </p>
