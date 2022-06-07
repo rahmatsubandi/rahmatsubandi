@@ -5,7 +5,7 @@
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/penguin.gif" width="80px">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/penguin.gif" width="80px" height="80px">
   <br><br>
   <samp>
 I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop websites, landing pages and applications for startups and enterprises. 
