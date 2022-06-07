@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif" width="1584px" height="300px">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif" width="2000px" height="300px">
  </p>
 
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
