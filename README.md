@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif" width="2100px" height="450px">
+  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif">
  </p>
 
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
@@ -39,7 +39,7 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://rahmatsubandi.me" target="_blank">
+  <a href="https://www.rahmatsubandi.dev" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/www.jpg" alt="WWW link to profile" />
   </a>
 </p>
