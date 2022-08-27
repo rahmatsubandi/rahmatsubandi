@@ -19,14 +19,10 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 <h3 align="center">Connect with me 😃</h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/subandi12" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/fb.png" alt="Facebook link to profile" />
-  </a>&nbsp;&nbsp;
-
-  <a href="https://instagram.com/rhmtin/" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ig.png" alt="Instagram link to profile" />
-  </a>&nbsp;&nbsp;
-
+  <a href="https://www.rahmatsubandi.dev" target="_blank">
+    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/www.jpg" alt="WWW link to profile" />
+  </a>
+  
   <a href="https://linkedin.com/in/rahmat-subandi-7238391b4" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/linked.png" alt="LinkedIn link to profile" />
   </a>&nbsp;&nbsp;
@@ -38,10 +34,6 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
   <a href="https://medium.com/@rhmtin12" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/medium.png" alt="Medium link to profile" />
   </a>&nbsp;&nbsp;
-  
-  <a href="https://www.rahmatsubandi.dev" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/www.jpg" alt="WWW link to profile" />
-  </a>
 </p>
 
 <p align="center">
