@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahmatsubandi/rahmatsubandi/master/image/ship.gif">
- </p>
+  <img src="https://github.com/rahmatsubandi/rahmatsubandi/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
 
@@ -39,8 +39,4 @@ I'm Rahmat Subandi. A freelance Web Developer from Bekasi, Indonesia. I  develop
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahmatsubandi&show_icons=true&theme=gotham" width="450px" alt="rahmatsubandi" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatsubandi&layout=compact&theme=gotham" alt="top lang" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/rahmatsubandi/rahmatsubandi/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
