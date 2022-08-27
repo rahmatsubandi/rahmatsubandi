@@ -1,7 +1,7 @@
 name: rahmatsubandi
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # every time push the changes
     - cron: "0 0 * * *"
   workflow_dispatch:
 
