@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rahmatsubandi/rahmatsubandi/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/popeye.gif" width="100%" alt="rahmatsubandi"></center>
 </p>
 
 <h1 align="center">Helo 👋, I'm Rahmat Subandi</h1>
